@@ -1,0 +1,38 @@
+h1 {
+    font-size: 200px;
+    background-color: blueviolet;
+    text-align: center;
+    margin: 0px;
+}
+h2 {
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+    margin: 0px;
+}
+h3 {
+    font-size: 30px;
+    background-color: salmon;
+    text-align: center;
+    margin: 0px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    background-color: lightsalmon;
+}
+p.p1 {
+    margin: 0px;
+    text-align: center;
+    font-size: x-large;
+    background-color: green;
+}
+p.p2 {
+    font-size: 30px;
+}
+p.p3 {
+    text-align: center;
+    font-size: large;
+}
